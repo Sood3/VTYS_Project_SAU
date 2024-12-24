@@ -10,7 +10,7 @@ const client = new Client({
   user: 'postgres',
   host: 'localhost',
   database: 'splayapp',
-  password: 'sude',
+  password: '',
   port: 5432,
 });
 
